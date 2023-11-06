@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>build application team</title>
+<style>
+
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    background: url('g.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+      
+h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color: green;
+}
+
+p{
+    margin-top: 10px;
+    font-size: 30px;
+    color: black;
+}
+      
+table,
+tr,
+td {
+        
+ /* Styling the border. */
+    border: 2px solid black;
+    width: 1500px;
+    font-size: 20PX;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+</style>
+</head>
+<body>
+    <h1>Wellcome to hardware developement</h1>
+    <p>Teams for build hardware products</p>
+    <table align="center">
+    <h2>PRODUCTS PLANNING TEAM MEMBERS</h2> 
+    <tr>
+        <td>SL.NO</td>
+        <td>NAME</td>
+        <td>FOTHER NAME</td>
+        <td>EMAIL_ID</td>
+        <td>PHONE NUMBER</td>
+        <td>QUALIFICATION</td>
+        <td>POSSION</td>
+    </tr>
+    <tr>
+        <Td>1</Td>
+        <td>abc</td>
+        <td>abc</td>
+        <td>ABC@GMAIL.COM</td>
+        <td>45123355266</td>
+        <td>M-TECH</td>
+        <td>TEAM MANAGER</td>
+    </tr>
+    <tr>
+        <Td>2</Td>
+        <td>bcd</td>
+        <td>bcd</td>
+        <td>bcd@GMAIL</td>
+        <td>4546166562</td>
+        <td>M-TECH</td>
+        <td>TEAM LEADER</td>
+    </tr>
+    <tr>
+        <Td>3</Td>
+        <td>cde</td>
+        <td>cde</td>
+        <td>cde@GMAIL.COM</td>
+        <td>215464663632</td>
+        <td>MCA</td>
+        <td>SUPRUVISOR</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>def</td>
+        <td>def</td>
+        <td>def@GMAIL.COM</td>
+        <td>1589466334556</td>
+        <td>BCA</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>efg</td>
+        <td>efg</td>
+        <td>efg@GMAIL.COM</td>
+        <td>65465189586345</td>
+        <td>BAC</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>fgh</td>
+        <td>fgh</td>
+        <td>fgh@GMAIL.COM</td>
+        <td>2165464132</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>ghi</td>
+        <td>ghi</td>
+        <td>ghi@GMAIL.COM</td>
+        <td>515653323232</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>hij</td>
+        <td>hij</td>
+        <td>hij@GMAIL.COM</td>
+        <td>64646569669</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>ijk</td>
+        <td>ijk</td>
+        <td>ijk@gmail.com</td>
+        <td>6546663988123</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>jkl</td>
+        <td>jkl</td>
+        <td>jkl@gmail.com</td>
+        <td>215646565655</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>klm</td>
+        <td>klm</td>
+        <td>klm@gmail.com</td>
+        <td>654663638789</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>lmn</td>
+        <td>lmn</td>
+        <td>lmn@gmail.com</td>
+        <td>5454665852666</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>mno</td>
+        <td>mno</td>
+        <td>mno@gmail.com</td>
+        <td>6548975523354</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>nop</td>
+        <td>nop</td>
+        <td>nop@gmail.com</td>
+        <td>5648975255</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>opq</td>
+        <td>opq</td>
+        <td>opq@gmail.com</td>
+        <td>2365698565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>pqr</td>
+        <td>pqr</td>
+        <td>pqr@gmail.com</td>
+        <td>545164651525</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>qrs</td>
+        <td>qrs</td>
+        <td>qrs@gmail.com</td>
+        <td>15166561465</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>rst</td>
+        <td>rst</td>
+        <td>rst@gmail.com</td>
+        <td>5165465656565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+     <tr>
+        <td>19</td>
+        <td>stu</td>
+        <td>stu</td>
+        <td>stu@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>tuv</td>
+        <td>tuv</td>
+        <td>tuv@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    </table>  
+    <table border="6">
+    <h3>PRODUCTS DESIGEN TEAMS MEMBERS</h3> 
+    <tr>
+        <td>SL.NO</td>
+        <td>NAME</td>
+        <td>FOTHER NAME</td>
+        <td>EMAIL_ID</td>
+        <td>PHONE NUMBER</td>
+        <td>QUALIFICATION</td>
+        <td>POSSION</td>
+    </tr>
+    <tr>
+        <Td>1</Td>
+        <td>abc</td>
+        <td>abc</td>
+        <td>ABC@GMAIL.COM</td>
+        <td>45123355266</td>
+        <td>M-TECH</td>
+        <td>TEAM MANAGER</td>
+    </tr>
+    <tr>
+        <Td>2</Td>
+        <td>bcd</td>
+        <td>bcd</td>
+        <td>bcd@GMAIL</td>
+        <td>4546166562</td>
+        <td>M-TECH</td>
+        <td>TEAM LEADER</td>
+    </tr>
+    <tr>
+        <Td>3</Td>
+        <td>cde</td>
+        <td>cde</td>
+        <td>cde@GMAIL.COM</td>
+        <td>215464663632</td>
+        <td>MCA</td>
+        <td>SUPRUVISOR</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>def</td>
+        <td>def</td>
+        <td>def@GMAIL.COM</td>
+        <td>1589466334556</td>
+        <td>BCA</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>efg</td>
+        <td>efg</td>
+        <td>efg@GMAIL.COM</td>
+        <td>65465189586345</td>
+        <td>BAC</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>fgh</td>
+        <td>fgh</td>
+        <td>fgh@GMAIL.COM</td>
+        <td>2165464132</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>ghi</td>
+        <td>ghi</td>
+        <td>ghi@GMAIL.COM</td>
+        <td>515653323232</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>hij</td>
+        <td>hij</td>
+        <td>hij@GMAIL.COM</td>
+        <td>64646569669</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>ijk</td>
+        <td>ijk</td>
+        <td>ijk@gmail.com</td>
+        <td>6546663988123</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>jkl</td>
+        <td>jkl</td>
+        <td>jkl@gmail.com</td>
+        <td>215646565655</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>klm</td>
+        <td>klm</td>
+        <td>klm@gmail.com</td>
+        <td>654663638789</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>lmn</td>
+        <td>lmn</td>
+        <td>lmn@gmail.com</td>
+        <td>5454665852666</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>mno</td>
+        <td>mno</td>
+        <td>mno@gmail.com</td>
+        <td>6548975523354</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>nop</td>
+        <td>nop</td>
+        <td>nop@gmail.com</td>
+        <td>5648975255</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>opq</td>
+        <td>opq</td>
+        <td>opq@gmail.com</td>
+        <td>2365698565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>pqr</td>
+        <td>pqr</td>
+        <td>pqr@gmail.com</td>
+        <td>545164651525</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>qrs</td>
+        <td>qrs</td>
+        <td>qrs@gmail.com</td>
+        <td>15166561465</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>rst</td>
+        <td>rst</td>
+        <td>rst@gmail.com</td>
+        <td>5165465656565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+     <tr>
+        <td>19</td>
+        <td>stu</td>
+        <td>stu</td>
+        <td>stu@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>tuv</td>
+        <td>tuv</td>
+        <td>tuv@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    </table>  
+    <table border="6">
+    <h3>PRODUCTS TESTING TEAM MEMBERS</h3> 
+    <tr>
+        <td>SL.NO</td>
+        <td>NAME</td>
+        <td>FOTHER NAME</td>
+        <td>EMAIL_ID</td>
+        <td>PHONE NUMBER</td>
+        <td>QUALIFICATION</td>
+        <td>POSSION</td>
+    </tr>
+    <tr>
+        <Td>1</Td>
+        <td>abc</td>
+        <td>abc</td>
+        <td>ABC@GMAIL.COM</td>
+        <td>45123355266</td>
+        <td>M-TECH</td>
+        <td>TEAM MANAGER</td>
+    </tr>
+    <tr>
+        <Td>2</Td>
+        <td>bcd</td>
+        <td>bcd</td>
+        <td>bcd@GMAIL</td>
+        <td>4546166562</td>
+        <td>M-TECH</td>
+        <td>TEAM LEADER</td>
+    </tr>
+    <tr>
+        <Td>3</Td>
+        <td>cde</td>
+        <td>cde</td>
+        <td>cde@GMAIL.COM</td>
+        <td>215464663632</td>
+        <td>MCA</td>
+        <td>SUPRUVISOR</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>def</td>
+        <td>def</td>
+        <td>def@GMAIL.COM</td>
+        <td>1589466334556</td>
+        <td>BCA</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>efg</td>
+        <td>efg</td>
+        <td>efg@GMAIL.COM</td>
+        <td>65465189586345</td>
+        <td>BAC</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>fgh</td>
+        <td>fgh</td>
+        <td>fgh@GMAIL.COM</td>
+        <td>2165464132</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>ghi</td>
+        <td>ghi</td>
+        <td>ghi@GMAIL.COM</td>
+        <td>515653323232</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>hij</td>
+        <td>hij</td>
+        <td>hij@GMAIL.COM</td>
+        <td>64646569669</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>ijk</td>
+        <td>ijk</td>
+        <td>ijk@gmail.com</td>
+        <td>6546663988123</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>jkl</td>
+        <td>jkl</td>
+        <td>jkl@gmail.com</td>
+        <td>215646565655</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>klm</td>
+        <td>klm</td>
+        <td>klm@gmail.com</td>
+        <td>654663638789</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>lmn</td>
+        <td>lmn</td>
+        <td>lmn@gmail.com</td>
+        <td>5454665852666</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>mno</td>
+        <td>mno</td>
+        <td>mno@gmail.com</td>
+        <td>6548975523354</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>nop</td>
+        <td>nop</td>
+        <td>nop@gmail.com</td>
+        <td>5648975255</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>opq</td>
+        <td>opq</td>
+        <td>opq@gmail.com</td>
+        <td>2365698565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>pqr</td>
+        <td>pqr</td>
+        <td>pqr@gmail.com</td>
+        <td>545164651525</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>qrs</td>
+        <td>qrs</td>
+        <td>qrs@gmail.com</td>
+        <td>15166561465</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>rst</td>
+        <td>rst</td>
+        <td>rst@gmail.com</td>
+        <td>5165465656565</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+     <tr>
+        <td>19</td>
+        <td>stu</td>
+        <td>stu</td>
+        <td>stu@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>tuv</td>
+        <td>tuv</td>
+        <td>tuv@gmail.com</td>
+        <td>216546636</td>
+        <td>BE</td>
+        <td>EMPLOYEE</td>
+    </tr>
+    </table>  
+
+
+</body>
+</html>
